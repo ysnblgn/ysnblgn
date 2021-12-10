@@ -11,7 +11,7 @@
  &nbsp;*This week I spent my time on*
   
   <p align="left">
- <img src="https://wakatime.com/share/@02caed5c-d23e-4dfb-8c7a-dbc307d5374b/698ac56a-799a-484c-89f8-56b1f37b5c73.svg"/>
+ <img src="https://wakatime.com/share/@02caed5c-d23e-4dfb-8c7a-dbc307d5374b/698ac56a-799a-484c-89f8-56b1f37b5c73.svg" width="400" height="400"/>
   </p>
   
   
