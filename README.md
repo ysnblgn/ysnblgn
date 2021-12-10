@@ -7,6 +7,15 @@
 *Languages&nbsp;and&nbsp;Tools*
   <br/>
   <p align="left">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="28" height="28"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="28" height="28"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="28" height="28" /> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="28" height="28"/>
+  
+ &nbsp;*This week I spent my time on*
+  
+  <p align="left">
+ <img src="https://wakatime.com/share/@02caed5c-d23e-4dfb-8c7a-dbc307d5374b/698ac56a-799a-484c-89f8-56b1f37b5c73.svg"/>
+  </p>
+  
+  
+  
 <!--
 **ysnblgn/ysnblgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
